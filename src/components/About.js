@@ -4,11 +4,10 @@ const About = () => {
     return (
         <div>
             <h1>About</h1>
-            <p>This is about us...</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Tempore dolorum excepturi, pariatur dolore fuga perferendis 
-                mollitia deserunt a voluptas assumenda! Consequatur beatae qui 
-                dolorem tempora possimus accusantium, fugit eius quidem?
+            <p>My Calender App...</p>
+            <p>Schedule your appointment using our Calender App. You can logging in from top
+                button. If you are a new user, SIGNUP IS FREE, no credit required.
+                Please sign-up here from the top button.
             </p>
         </div>
     )
