@@ -18,7 +18,7 @@ const Profile = (props) => {
        <h1>Profile</h1>
        <p>Name: {name}</p>
        <p>Email: {email}</p>
-       <p>ID: {id}</p>
+       {/* <p>ID: {id}</p> */}
    </div>) : <h2>Loading...</h2>
 
     const errorDiv = () => {
